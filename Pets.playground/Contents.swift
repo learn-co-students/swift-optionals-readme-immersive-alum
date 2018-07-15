@@ -1,7 +1,6 @@
 var petName: String?
 petName = "Scooter 🐢"
 print(petName)
-
 if petName != nil {
     print("My friend's pet is \(petName)")
 } else {
